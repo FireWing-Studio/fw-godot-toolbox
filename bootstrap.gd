@@ -1,6 +1,6 @@
 @tool
 
-@icon("res://addons/godot_common/icon.svg")
+#@icon("res://addons/godot_common/icon.svg")
 
 extends EditorPlugin
 
