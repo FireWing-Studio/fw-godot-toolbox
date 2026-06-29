@@ -1,9 +1,9 @@
-# godot-common
-Common addons for godot projects
+# FireWing Godot Toolbox
+Utility Toolbox addon for godot projects made by FireWing Studio
 
 # FWLogger
 
-FWLogger is the class used to log to file or console by the FW common plugin.
+FWLogger is the class used to log to file or console by the FireWing Godot Toolbox plugin.
 
 FWLogger DOES NOT CURRENTLY SUPPORT MULTIHTREADING (use it only in the main thread).
 
