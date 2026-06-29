@@ -1,10 +1,10 @@
 @tool
 
-#@icon("res://addons/godot_common/icon.svg")
+#@icon("res://addons/fw_godot_toolbox/icon.svg")
 
 extends EditorPlugin
 
-const PLUGIN_NAME = "godot_common"
+const PLUGIN_NAME = "fw_godot_toolbox"
 
 const sub_plugins = []
 
